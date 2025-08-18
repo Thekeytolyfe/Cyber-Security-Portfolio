@@ -26,7 +26,20 @@ My journey in operations leadership and recent Security+ certification have fuel
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+
+### Programming & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+### Databases
+<div>
+    <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    
 </div>
 
 ### SIEM
