@@ -17,7 +17,7 @@ My journey in operations leadership and recent Security+ certification have fuel
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident report analysis                      | <a href="https://docs.google.com/document/d/1nCN2Kvz4ITqx8LJQE6fFE1tQcEbk0MPNFQzpz3e3u4c/edit?tab=t.0">Incident report analysis</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| File permissions in Linux                     | <a href="https://docs.google.com/document/d/15ci-oySakmIGmrNWxwYrUNfa9b43YnRcRtMdefUeZaU/edit?tab=t.0#heading=h.adnh333husy">Detection Lab</a>|
+| File permissions in Linux                     | <a href="https://docs.google.com/document/d/15ci-oySakmIGmrNWxwYrUNfa9b43YnRcRtMdefUeZaU/edit?tab=t.0#heading=h.adnh333husy">Linux File Permissions</a>|
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 
 ## Tools
