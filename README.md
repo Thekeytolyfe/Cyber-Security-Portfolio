@@ -58,5 +58,6 @@ My journey in operations leadership and recent Security+ certification have fuel
 </div>
 
 ## Projects
+- File permissions in Linux
 - Detection Lab
 - SOC Automation Project
